@@ -6,5 +6,7 @@ void main()
 	printf("Git branch A\n");
 
 
-	printf("Testing\n");
+	printf("Hello World 2\n");
+
+	printf("Hello World\n");
 }
