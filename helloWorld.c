@@ -3,5 +3,7 @@
 void main()
 {
 	printf("Hello World 2\n");
-	printf("Git branch A\n");
+	printf("Git\n");
+
+	printf("Hello World\n");
 }
